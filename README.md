@@ -1,84 +1,90 @@
-Hey there, I’m Tom
-Full-Stack Software Developer | React/ReactNative Mentor | YouTube Educator
+# Hey there, I’m Tom  
+**Full-Stack Software Developer | React/ReactNative Mentor | YouTube Educator**
 
-I build scalable mobile/web apps with the MERN stack and React Native, and teach thousands of developers on YouTube. With 5+ years of experience, I specialize in:
+I build scalable mobile/web apps with the **MERN stack** and **React Native**, and teach thousands of developers on **YouTube**. With **6+ years of experience**, I specialize in:
 
-Cross-platform apps (iOS & Android)
+- **Cross-platform apps** (iOS & Android)  
+- **AI-powered automation** (OpenAI, Groq)  
+- **Localized gig economies** (like my current project, Neowork)  
+- **Mentorship** through hands-on tutorials and tech breakdowns  
 
-AI-powered automation (OpenAI, Groq)
+---
 
-Localized gig economies (like my current project, Neowork)
+## What I Do  
+- **Develop**: React Native & React.js apps (performance-optimized, secure)  
+- **Teach**: Share my expertise via YouTube (React Native, React.js, tech deep-dives)  
+- **Build Backends**: Scalable APIs with Node.js, Firebase, Supabase, MongoDB, Postgress.  
+- **Solve Real Problems**: Focus on apps that empower users (e.g., healthcare, gig work)  
 
-Mentorship through hands-on tutorials and tech breakdowns
+---
 
-What I Do
-Develop: React Native & React.js apps (performance-optimized, secure)
+## Featured Projects  
 
-Teach: Share my expertise via YouTube (React Native, React.js, tech deep-dives)
+### 🔥 Neowork (React Native • Firebase • Geolocation)  
+*Localizing the gig economy for underserved communities*  
 
-Build Backends: Scalable APIs with Node.js, Firebase, Supabase, MongoDB
+**Problem Solved**: Formal job platforms like Upwork exclude non-technical/local work (e.g., "Fix my roof," "Install solar panels").  
 
-Solve Real Problems: Focus on apps that empower users (e.g., healthcare, gig work)
+**Innovation**:  
+- **Hirer/Tasker Model**: Simplified job posting → proposal → payment flow with escrow-like security.  
+- **Hyperlocal Focus**: GPS-based task matching for domestic/technical jobs.  
+- **Tech**: Real-time Firebase updates, Stripe/Paystack integration, offline-first design.  
 
+### 💌 Cudship (React Native • Firebase • Algorithms)  
+*Dating app designed for scale*  
 
- Featured Projects
-🔥 Neowork (React Native • Firebase • Geolocation)
-Localizing the gig economy for underserved communities
+**Key Tech**:  
+- **1M+ User Ready**: Optimized Firestore queries, CDN caching for media.  
+- **Live Proximity Matching**: Background geolocation updates + privacy safeguards.  
+- **Anti-Spam AI**: Custom algorithm to detect fake profiles (OpenAI moderation).  
+- **Status**: Beta testing with 500 users.  
 
-Problem Solved: Formal job platforms like Upwork exclude non-technical/local work (e.g., "Fix my roof," "Install solar panels").
+### 🏥 EthiopeAZHealth (React Native • WebSockets • Subscriptions)  
+*Telemedicine for emerging markets*  
 
-Innovation:
-Hirer/Tasker Model: Simplified job posting → proposal → payment flow with escrow-like security.
-Hyperlocal Focus: GPS-based task matching for domestic/technical jobs.
-Tech: Real-time Firebase updates, Stripe/Paystack integration, offline-first design.
+**Impact**:  
+- **VIP Chat Monetization**: $4/month subscription boosts doctor earnings.  
+- **Critical Feature**: Offline-capable appointment reminders (SMS fallback).  
+- **Stats**: 50+ doctors onboarded pre-launch.  
 
-💌 Cudship (React Native • Firebase • Algorithms)
-Dating app designed for scale
+### 💳 Buzzy.ng (Play Store | Apple Store)  
+*Fintech super-app*  
 
-Key Tech:
-1M+ User Ready: Optimized Firestore queries, CDN caching for media.
-Live Proximity Matching: Background geolocation updates + privacy safeguards.
-Anti-Spam AI: Custom algorithm to detect fake profiles (OpenAI moderation).
-Status: Beta testing with 500 users.
+**My Contributions**:  
+- **Biometric Auth**: Reduced fraud by 65% via fingerprint/PIN layers.  
+- **Video Ad Engine**: Built with FFmpeg, increased ad revenue by 40%.  
+- **Link**: 🔗 [https://play.google.com/store/apps/details?id=com.buzzy.ng]  
 
-🏥 EthiopeAZHealth (React Native • WebSockets • Subscriptions)
-Telemedicine for emerging markets
+---
 
-Impact:
-VIP Chat Monetization: $4/month subscription boosts doctor earnings.
-Critical Feature: Offline-capable appointment reminders (SMS fallback).
-Stats: 50+ doctors onboarded pre-launch.
+## YouTube & Mentorship  
+I break down **React Native**, **React.js**, and **backend development** concepts for aspiring devs:  
 
-💳 Buzzy.ng (Play Store | Apple Store)
-Fintech super-app
+- **Tutorials**: "Building a Neowork clone from scratch"  
+- **Tech Deep Dives**: "How Supabase beats Firebase for local-first apps"  
+- **Career Guidance**: "From zero to freelance developer"  
 
-My Contributions:
-Biometric Auth: Reduced fraud by 65% via fingerprint/PIN layers.
-Video Ad Engine: Built with FFmpeg, increased ad revenue by 40%.
-Link: 🔗 [https://play.google.com/store/apps/details?id=com.buzzy.ng]
+🔗 **Subscribe here**: [https://www.youtube.com/@tombrownanum](https://www.youtube.com/@tombrownanum)  
 
-YouTube & Mentorship
-I break down React Native, React.js, and backend development concepts for aspiring devs:
+---
 
-Tutorials: "Building a Neowork clone from scratch"
+## 🛠️ Tech Stack  
 
-Tech Deep Dives: "How Supabase beats Firebase for local-first apps"
+**Frontend**: React.js, ReactNative, TailwindCss, Bootstrap  
+**Backend**: Node.js, Express, Firebase, Postgres, SQL, Supabase  
+**AI/ML**: OpenAI, Groq integrations  
+**Tools**: Figma, Android Studio, Cloud Functions, Jetbrain IDEs  
 
-Career Guidance: "From zero to freelance developer"
+---
 
-🔗 Subscribe here: https://www.youtube.com/@tombrownanum
+## 📫 Let’s Connect  
 
-🛠️ Tech Stack
+I’m always open to collaborating on exciting projects or discussing opportunities in software development. Check out my portfolio for more of my work, and feel free to reach out!  
 
-Frontend: React.js, ReactNative, TailwindCss, Boostrap.
-Backend: Node.js, Express, Firebase, Postgres, Sql and Supabase
-AI/ML: OpenAI, Groq integrations
-Tools: Figma, Android Studio, Cloud Functions, Jetbrain IDEs.
+- 🌐 **Portfolio**: [http://tom-portfolio.onrender.com/](http://tom-portfolio.onrender.com/)  
+- 💼 **Email**: [tombrownanuma@gmail.com](mailto:tombrownanuma@gmail.com)  
 
-📫 Let’s Connect
+---
 
-I’m always open to collaborating on exciting projects or discussing opportunities in software development. Check out my portfolio for more of my work, and feel free to reach out!
-
-🌐Portfolio: [http://tom-portfolio.onrender.com/]
-
-💼Email: [tombrownanuma@gmail.com]
+*Exclusive Software Deals for Developers and Startups - [Dealsbe](#)*  
+[Post a Deal](#)
