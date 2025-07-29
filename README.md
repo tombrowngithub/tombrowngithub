@@ -20,7 +20,7 @@ I build scalable mobile/web apps with the **MERN stack** and **React Native**, a
 
 ## Featured Projects  
 
-### 🔥 Neowork (React Native • Firebase • Geolocation)  
+### Neowork (React Native • Firebase • Geolocation)  
 *Localizing the gig economy for underserved communities*  
 
 **Problem Solved**: Formal job platforms like Upwork exclude non-technical/local work (e.g., "Fix my roof," "Install solar panels").  
@@ -30,7 +30,7 @@ I build scalable mobile/web apps with the **MERN stack** and **React Native**, a
 - **Hyperlocal Focus**: GPS-based task matching for domestic/technical jobs.  
 - **Tech**: Real-time Firebase updates, Stripe/Paystack integration, offline-first design.  
 
-### 💌 Cudship (React Native • Firebase • Algorithms)  
+### Cudship (React Native • Firebase • Algorithms)  
 *Dating app designed for scale*  
 
 **Key Tech**:  
@@ -39,7 +39,7 @@ I build scalable mobile/web apps with the **MERN stack** and **React Native**, a
 - **Anti-Spam AI**: Custom algorithm to detect fake profiles (OpenAI moderation).  
 - **Status**: Beta testing with 500 users.  
 
-### 🏥 EthiopeAZHealth (React Native • WebSockets • Subscriptions)  
+### EthiopeAZHealth (React Native • WebSockets • Subscriptions)  
 *Telemedicine for emerging markets*  
 
 **Impact**:  
@@ -47,7 +47,7 @@ I build scalable mobile/web apps with the **MERN stack** and **React Native**, a
 - **Critical Feature**: Offline-capable appointment reminders (SMS fallback).  
 - **Stats**: 50+ doctors onboarded pre-launch.  
 
-### 💳 Buzzy.ng (Play Store | Apple Store)  
+### Buzzy.ng (Play Store | Apple Store)  
 *Fintech super-app*  
 
 **My Contributions**:  
@@ -68,7 +68,7 @@ I break down **React Native**, **React.js**, and **backend development** concept
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 **Frontend**: React.js, ReactNative, TailwindCss, Bootstrap  
 **Backend**: Node.js, Express, Firebase, Postgres, SQL, Supabase  
@@ -77,12 +77,12 @@ I break down **React Native**, **React.js**, and **backend development** concept
 
 ---
 
-## 📫 Let’s Connect  
+## Let’s Connect  
 
 I’m always open to collaborating on exciting projects or discussing opportunities in software development. Check out my portfolio for more of my work, and feel free to reach out!  
 
-- 🌐 **Portfolio**: [http://tom-portfolio.onrender.com/](http://tom-portfolio.onrender.com/)  
-- 💼 **Email**: [tombrownanuma@gmail.com](mailto:tombrownanuma@gmail.com)  
+-  **Portfolio**: [http://tom-portfolio.onrender.com/](http://tom-portfolio.onrender.com/)  
+-  **Email**: [tombrownanuma@gmail.com](mailto:tombrownanuma@gmail.com)  
 
 ---
 
