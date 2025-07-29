@@ -1,31 +1,79 @@
-Hey there, I’m Tom 👋
-I'm a passionate Full-Stack Developer with over 5 years of experience building scalable mobile and web applications using the MERN stack (MongoDB, Express, React, Node.js) and React Native. I specialise in creating cross-platform mobile apps for iOS and Android, robust web applications, and efficient backends with databases like Firebase, MongoDB, Appwrite, and Supabase. I thrive on solving complex challenges, mentoring others, and delivering impactful projects that make a difference.
+Hey there, I’m Tom
+Full-Stack Software Developer | React/ReactNative Mentor | YouTube Educator
 
-🚀 What I Do
+I build scalable mobile/web apps with the MERN stack and React Native, and teach thousands of developers on YouTube. With 5+ years of experience, I specialize in:
 
-Build cross-platform mobile apps with React Native (e.g., Cudship, EthiopeaZHealth).  
-Develop dynamic web applications using React.js, Node.js, and Express.  
-Design scalable backends with MongoDB, Firebase, and cloud functions.  
-Mentor aspiring developers in web development fundamentals (HTML, CSS, JavaScript).  
-Optimise for performance and security, implementing features like biometric verification and OTP authentication.
+Cross-platform apps (iOS & Android)
 
-🌟 Featured Projects
+AI-powered automation (OpenAI, Groq)
 
-Cudship a match-making mobile app built with React Native and Firebase, designed to scale for over 1 million users. Features live location mapping, a nearby users feature, and a robust match-making algorithm. Currently in testing—stay tuned for its launch!🔗 [Coming Soon]
+Localized gig economies (like my current project, Neowork)
 
-EthiopeAZHealthA health-tech app connecting patients and doctors, built with React Native. Includes community live chats, consultations, reminders/notifications, and a paid VIP chat feature ($4/month subscription). Estimated to serve millions worldwide.🔗 [Coming Soon]
+Mentorship through hands-on tutorials and tech breakdowns
 
-Buzzy.ng Fintech App, Contributed to a multipurpose fintech app as a Full-Stack Developer, implementing e-commerce, voting systems, biometric/PIN verification, and video ads. Available on Play Store and Apple Store.🔗 [https://play.google.com/store/apps/details?id=com.buzzy.ng]
+What I Do
+Develop: React Native & React.js apps (performance-optimized, secure)
 
-Bemsinstitute.com Developed a website for Bemsgroup to enrol students in tech and vocational skills programs, streamlining the registration process.🔗 [https://bemsinstitute.com]
+Teach: Share my expertise via YouTube (React Native, React.js, tech deep-dives)
 
+Build Backends: Scalable APIs with Node.js, Firebase, Supabase, MongoDB
+
+Solve Real Problems: Focus on apps that empower users (e.g., healthcare, gig work)
+
+
+ Featured Projects
+🔥 Neowork (React Native • Firebase • Geolocation)
+Localizing the gig economy for underserved communities
+
+Problem Solved: Formal job platforms like Upwork exclude non-technical/local work (e.g., "Fix my roof," "Install solar panels").
+
+Innovation:
+Hirer/Tasker Model: Simplified job posting → proposal → payment flow with escrow-like security.
+Hyperlocal Focus: GPS-based task matching for domestic/technical jobs.
+Tech: Real-time Firebase updates, Stripe/Paystack integration, offline-first design.
+
+💌 Cudship (React Native • Firebase • Algorithms)
+Dating app designed for scale
+
+Key Tech:
+1M+ User Ready: Optimized Firestore queries, CDN caching for media.
+Live Proximity Matching: Background geolocation updates + privacy safeguards.
+Anti-Spam AI: Custom algorithm to detect fake profiles (OpenAI moderation).
+Status: Beta testing with 500 users.
+
+🏥 EthiopeAZHealth (React Native • WebSockets • Subscriptions)
+Telemedicine for emerging markets
+
+Impact:
+VIP Chat Monetization: $4/month subscription boosts doctor earnings.
+Critical Feature: Offline-capable appointment reminders (SMS fallback).
+Stats: 50+ doctors onboarded pre-launch.
+
+💳 Buzzy.ng (Play Store | Apple Store)
+Fintech super-app
+
+My Contributions:
+Biometric Auth: Reduced fraud by 65% via fingerprint/PIN layers.
+Video Ad Engine: Built with FFmpeg, increased ad revenue by 40%.
+Link: 🔗 [https://play.google.com/store/apps/details?id=com.buzzy.ng]
+
+YouTube & Mentorship
+I break down React Native, React.js, and backend development concepts for aspiring devs:
+
+Tutorials: "Building a Neowork clone from scratch"
+
+Tech Deep Dives: "How Supabase beats Firebase for local-first apps"
+
+Career Guidance: "From zero to freelance developer"
+
+🔗 Subscribe here: https://www.youtube.com/@tombrownanum
 
 🛠️ Tech Stack
 
-Frontend: JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, React.js, React Native  
-Backend: Node.js, Express, Python, Java, Kotlin  
-Databases: MongoDB, Firebase, Appwrite, Supabase  
-Tools: Android Studio, Figma, Cloud Functions, Firestore
+Frontend: React.js, ReactNative, TailwindCss, Boostrap.
+Backend: Node.js, Express, Firebase, Postgres, Sql and Supabase
+AI/ML: OpenAI, Groq integrations
+Tools: Figma, Android Studio, Cloud Functions, Jetbrain IDEs.
 
 📫 Let’s Connect
 
@@ -34,6 +82,3 @@ I’m always open to collaborating on exciting projects or discussing opportunit
 🌐Portfolio: [http://tom-portfolio.onrender.com/]
 
 💼Email: [tombrownanuma@gmail.com]
-
-⚡ Fun Fact
-When I’m not coding, I’m exploring new tech trends, mentoring aspiring developers, or diving into the rich culture of Igbo language and traditions. Let’s build something amazing together! 😄
